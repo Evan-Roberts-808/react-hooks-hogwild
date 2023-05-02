@@ -110,6 +110,7 @@ ul {
 
 .pigTile h3 {
   color: #FBB;
+  font-size:2em;
 }
 
 .minPigTile {
@@ -126,6 +127,10 @@ ul {
 
 .pigTile:hover {
   transform: scale(1.05);
+}
+
+.pigTile img {
+  width: 250px;
 }
 
 
